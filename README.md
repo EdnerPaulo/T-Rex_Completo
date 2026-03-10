@@ -1,1 +1,2 @@
-# T-Rex_Completo
+# JogoTrex
+Utilizamos a biblioteca P5.JS. 
