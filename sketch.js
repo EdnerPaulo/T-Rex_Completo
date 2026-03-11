@@ -109,7 +109,7 @@ function preload(){
         // trex pulando
        
         if(keyDown('space') && trex.y >= 159){
-            trex.velocityY = -14;
+            trex.velocityY = -13;
             jumpSound.play();
         }
     
@@ -244,4 +244,5 @@ function preload(){
     
     
     }
+
 
